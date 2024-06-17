@@ -243,7 +243,7 @@ def email(your_product,total,gst_percent):
         message += f"Your {your_product} bill details:\n"
         message += f"Total Bill: {total}\n"
         message += f"GST: {gst_percent}%\n"
-        send.sendmail("yuva557489334@gmail.com", receive, message)
+        send.sendmail("your_gmail@gmail.com", receive, message)
         
         send.quit()
         print("Mail sent successfully.")
