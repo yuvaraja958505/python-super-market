@@ -1,0 +1,2 @@
+ your product name 'butter oil' your total bill is 1020 GST is 11.764705882352942% date is '2024-06-17 10:34:05.625768' your offer total is '970'Product: butter oil, Total Bill: 1020, GST: 11.764705882352942%, Date: 2024-06-17 10:34:05.626770
+Offer Total: 1000
