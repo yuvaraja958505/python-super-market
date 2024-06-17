@@ -237,7 +237,7 @@ def email(your_product,total,gst_percent):
         
         send = smtplib.SMTP("smtp.gmail.com", 587)
         send.starttls()
-        send.login("yuva557489334@gmail.com", "jsgf crew mqry ythw")
+        send.login("your_gmail@gmail.com", "your_password")
         
         message = f"Your OTP is: {otp_number}"
         message += f"Your {your_product} bill details:\n"
